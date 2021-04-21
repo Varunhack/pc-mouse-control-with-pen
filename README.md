@@ -10,4 +10,4 @@ The default size of camera for controlling mouse will be 1280 x 720 you can chan
 **Note**:- 
 * opencv must be installed before you can run the code
 * Don't uncomment or comment any thing
-/n_Enjoy_
+\n_Enjoy_
